@@ -50,7 +50,7 @@
 
 We recorded a short video of the project completion.
 
-https://github.com/user-attachments/assets/52be1bf5-5ebd-4a3c-bce6-dbcb8a2232c7
+https://github.com/user-attachments/assets/61498543-e3fa-4762-a4cc-ce149b9cbfc8
 
 ---
 
