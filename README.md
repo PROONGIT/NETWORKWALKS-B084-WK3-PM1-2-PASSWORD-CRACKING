@@ -207,7 +207,7 @@ The captured flag is **`nw{networkwalks_persistence_jtr_270521}`**.
 
 ---
 
-![1_flag2.png](/screenshots/1_flag2.png)
+![1_flag2.png](/screenshots/1_falg2.png
 
 ---
 
@@ -257,7 +257,7 @@ The captured flag is **`nw{networkwalks_flag_260821_1}`**.
 
 ---
 
-![1_flag3.png](/screenshots/1_flag3.png)
+![1_flag3.png](/screenshots/1_falg3.png)
 
 ---
 
@@ -387,7 +387,7 @@ The captured flag is **`nw{networkwalks_flag1_jtr_270521_1}`**.
 
 ---
 
-![2_flag1.png](/screenshots/2_flag1.png)
+![2_flag1.png](/screenshots/2_falg1.png)
 
 ---
 
