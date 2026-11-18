@@ -63,6 +63,8 @@ The PM1's objective is to crack the password of attached PDF files using JTR JOH
 
 ## Step 1
 
+We downloaded John the Ripper from the official website on our windows PC.
+
 ---
 
 ### ipconfig
@@ -151,9 +153,10 @@ This project is intended strictly for education purposes only.
 
 # 🔗 Tools & Resources
 
-- **Wireshark download:** [https://www.wireshark.org/download.html](https://www.wireshark.org/download.html)
-- **Wireshark documentation:** [https://www.wireshark.org/docs/](https://www.wireshark.org/docs/)
-- **Wireshark community:** [https://www.wireshark.org/blog/](https://www.wireshark.org/blog/)
+- **JTR John download:** [https://www.openwall.com/john/](https://www.openwall.com/john/)
+- **JTR Johnny download:** [https://openwall.info/wiki/john/johnny](https://openwall.info/wiki/john/johnny)
+- **Networkwalks Hash Calculator:** [https://networkwalks.com/hash-calculator/](https://networkwalks.com/hash-calculator/)
+- **Networkwalks Password Cracker:** [https://networkwalks.com/password-cracker/](https://networkwalks.com/password-cracker/)
 
 ---
 
