@@ -93,6 +93,10 @@ The executable file **john.exe** is located in the run folder:
 
 We downloaded the locked pdf files from the project's Google Drive link. The downloaded files are available in **`/downloads`**.
 
+---
+
+### Getting the hash
+
 We open the hash website (Online HashCrack) in a browser.
 
 We uploaded the file `/downloads/My Locked PDF1.pdf` and got its hash. We copied the hash and saved in the text file `/output_files/hash1.txt`. 
@@ -102,6 +106,8 @@ We uploaded the file `/downloads/My Locked PDF1.pdf` and got its hash. We copied
 ![1_step_3.png](/screenshots/1_step_3.png)
 
 ---
+
+### Getting the password 
 
 We opened Jonny and clicked on **Open password file**. We browsed to the saved *hash1.txt* file and clicked on **Open**.
 
@@ -121,6 +127,8 @@ We clicked on **Start new attack**. The PDF file password was cracked.
 
 We exported and saved the password to `/output_files/password_1.txt` and `/output_files/password_1.csv`.
 
+### Unlocking the PDF file
+
 We opened the encrypted file `/downloads/My Locked PDF1.pdf` and entered the password we got **`good-luck`**.
 
 ---
@@ -137,13 +145,27 @@ We validated the password and the PDF file opened.
 
 ---
 
-# 🔓Password Cracking with Networkwalks Tools
+# 🔓 PM2 - Password Cracking with Networkwalks Tools
+
+---
+
+## ⚓ Background
+
+
+
+---
+
+## 🎯 Objective
+
+
 
 ---
 
 ## Step 1
 
 
+
+---
 
 ## Project Short Video
 
