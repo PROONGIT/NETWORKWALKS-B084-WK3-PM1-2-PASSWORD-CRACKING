@@ -91,7 +91,7 @@ The executable file **john.exe** is located in the run folder:
 
 ## 👣 Step 3
 
-We downloaded the locked pdf files from the project's Google Drive link. The downloaded files are available in **`/downloads`**.
+We downloaded the locked pdf files from the Networkwalks project's Google Drive link. The downloaded files are available in **`/downloads`**.
 
 ---
 
@@ -263,7 +263,91 @@ The PM2's objective is to crack the password of the attached PDF file "My Locked
 
 ## 👣 Step 1
 
+We downloaded the encrypted PDF file **`My Locked PDF1 (for NW Tools Lab WK3-PM2).pdf`** to our laptop from the Networkwalks project's Google Drive link. The downloaded file is available in **`/downloads/`**
 
+---
+
+![2_step_1.png](/screenshots/2_step_1.png)
+
+---
+
+## 👣 Step 2
+
+We opened the Networkwalks Hash Calculator in our web browser.
+
+---
+
+![2_step_2.png](/screenshots/2_step_2.png)
+
+---
+
+## 👣 Step 3
+
+We uploaded the downloaded locked PDF file to the Hash Calculator. And we got the hash value.
+
+---
+
+![2_step_3.png](/screenshots/2_step_3.png)
+
+---
+
+## 👣 Step 4
+
+We copied the hash value given by the Networkwalks Hash Calculator tool.
+
+---
+
+## 👣 Step 5
+
+We opened the Networkwalks Password Cracker in your web browser.
+
+---
+
+![2_step_5.png](/screenshots/2_step_5.png)
+
+---
+
+## 👣 Step 6
+
+We pasted the hash value in the Password Cracker.
+
+---
+
+![2_step_6.png](/screenshots/2_step_6.png)
+
+---
+
+## 👣 Step 7
+
+We started the attack. The tool tried different passwords until it found the match. The cracked password was shown on the screen.
+
+---
+
+![2_step_7.png](/screenshots/2_step_7.png)
+
+---
+
+We copied and saved the shown password in the txt file **`/output_files/password_4.txt`**.
+
+---
+
+## 👣 Step 8
+
+We opened the locked PDF file and entered the cracked password **`password1`**.
+
+---
+
+![2_step_8.png](/screenshots/2_step_8.png)
+
+---
+
+## 👣 Step 9
+
+We validated the entered password and the locked PDF file opened successfully.
+
+---
+
+![2_step_9.png](/screenshots/2_step_9.png)
 
 ---
 
