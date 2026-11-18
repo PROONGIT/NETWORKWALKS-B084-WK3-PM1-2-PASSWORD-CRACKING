@@ -145,6 +145,8 @@ We validated the password and the PDF file opened.
 
 ---
 
+## 🔂 Repeating step 3
+
 We repeated the **step 3** for the two other encrypted PDF files **`/downloads/My Locked PDF2.pdf`** and **`/downloads/My Locked PDF3.pdf`**.
 
 ---
@@ -157,7 +159,7 @@ We uploaded the file `/downloads/My Locked PDF2.pdf` and got its hash. We copied
 
 ---
 
-### Getting the password of PDF1
+### Getting the password of PDF2
 
 We opened Jonny and clicked on **Open password file**. We browsed to the saved *hash2.txt* file and clicked on **Open**.
 
