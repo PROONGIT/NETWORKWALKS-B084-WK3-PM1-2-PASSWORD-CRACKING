@@ -207,7 +207,7 @@ The captured flag is **`nw{networkwalks_persistence_jtr_270521}`**.
 
 ---
 
-![1_flag2.png](/screenshots/1_falg2.png
+![1_flag2.png](/screenshots/1_falg2.png)
 
 ---
 
