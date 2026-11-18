@@ -24,7 +24,40 @@
 
 ---
 
-# 🔓Password Cracking with JTR
+## 📌 Project Overview
+
+This project focuses on password cracking and helps develop Cybersecurity skills such as Ethical Hacking, Penetration Testing. It is made of two modules : Project Module 1 (PM1) and Project Module 2 (PM2). 
+
+The purpose of PM1 is to use John The Ripper (JTR) in a Windows environment for password cracking. The PM2 aims to use two Networkwalks tools for password cracking.
+
+The password-cracking activities presented in this project should only target authorized files and devices or those you own for security testing.
+
+---
+
+# 🔓 PM1 - Password Cracking with JTR
+
+---
+
+## ⚓ Background
+
+John the Ripper (JTR) is a popular password cracking tool used by security professionals to test how strong
+passwords are. It started as a tool for Unix systems but now works on Windows, Linux, and Mac. It can
+check many types of password hashes and also unlock password protected files like PDF, ZIP, and Office
+documents.
+
+Johnny is the graphical version of John the Ripper. It gives a simple point and click screen, so beginners can
+use JTR without typing long commands. Both tools are widely used in security testing and learning labs to
+understand password safety.
+
+In this lab task you will use JTR John and JTR Johnny to recover the password of a protected PDF file. This
+exercise helps you learn how password cracking works and why it is important to use strong passwords for
+protection.
+
+---
+
+## 🎯 Objective
+
+The PM1's objective is to crack the password of attached PDF files using JTR JOHN and JTR JOHNNY tools on a Windows PC.
 
 ---
 
