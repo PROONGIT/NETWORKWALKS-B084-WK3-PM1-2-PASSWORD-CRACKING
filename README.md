@@ -63,13 +63,27 @@ The PM1's objective is to crack the password of attached PDF files using JTR JOH
 
 ## Step 1
 
-We downloaded John the Ripper from the official website on our windows PC.
+We downloaded John the Ripper (JTR) JOHN and Johnny GUI from the official websites on our windows PC.
 
 ---
 
-### ipconfig
+![1_step_1.png](/screenshots/1_step_1.png)
 
-![windows_mac output](/screenshots/ipconfig_all.png)
+---
+
+## Step 2
+
+We unzipped both downloaded JTR files.
+
+We run the setup file of Johnny and installed it. We launched Jonny and set up the John The Ripper executable.
+
+![2_step_2.png](/screenshots/2_step_2.png)
+
+---
+
+## Step 3
+
+
 
 ---
 
