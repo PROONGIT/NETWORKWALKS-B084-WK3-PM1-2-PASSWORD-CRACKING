@@ -413,35 +413,39 @@ The most important skills I demonstrated include:
 
 I used JTR and Networkwalks tools to hack the passwords and capture the flags. 
 
-### 2. Online HashCrack tool
+### 2. Catch The Flag
+
+I captured the hidden flags and documented them faithfully.
+
+### 3. Online HashCrack tool
 
 I used the Online HashCrack tool to find the hash value of PDF files.
 
-### 3. JTR tools
+### 4. JTR tools
 
 I used JTR tools to get the plain text passwords from hash values. 
 
-### 4. Networkwalks tools
+### 5. Networkwalks tools
 
 I used the Networkwalks Hash Calculator tool to find the hash value of a PDF file, and the Networkwalks Password Cracker tool to get the plain text password from the hash value.
 
-### 5. Cyber Threat Intelligence 
+### 6. Cyber Threat Intelligence 
 
 By testing the strength of the passwords and the data security earlier, I demonstrated Cyber Threat Intelligence skills, including Threat Hunting and Threat Detection.
 
-### 6. Intrusion Prevention (IPS)
+### 7. Intrusion Prevention (IPS)
 
 By testing the strength of the passwords for data security and early detecting their weakness and related threats, I can enhance the security level and prevent an attacker from hacking the passwords. The PDF files might contain critical data like credentials, server details that could help an attacker to perform an intrusion.
 
-### 7. Security-tool experimentation
+### 8. Security-tool experimentation
 
 Using different tools such as JTR John, JTR Johnny, as well as Networkwalks Hash Calculator and Passwrd Cracker tools to hack passwords is a practical way to experiment and master security tools.
 
-### 8. Security mindset
+### 9. Security mindset
 
 A security mindset in cybersecurity is a proactive, analytical way of thinking. I demonstrated that mindset throughout this project by using appropriate tools and testing the strength of the passwords that were supposed to ensure data privacy.
 
-### 9. Documentation
+### 10. Documentation
 
 I documented tools, platforms links, screenshots, tasks and solutions. That is an important part of a professional cybersecurity project.
 
