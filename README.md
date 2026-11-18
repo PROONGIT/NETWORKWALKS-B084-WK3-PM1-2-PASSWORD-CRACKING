@@ -145,6 +145,16 @@ We validated the password and the PDF file opened.
 
 ---
 
+### Captured Flag
+
+The captured flag is **`nw{cybersecurity_flag_captured_2608}`**.
+
+---
+
+![1_flag1.png](/screenshots/1_flag1.png)
+
+---
+
 ## 🔂 Repeating step 3
 
 We repeated the **step 3** for the two other encrypted PDF files **`/downloads/My Locked PDF2.pdf`** and **`/downloads/My Locked PDF3.pdf`**.
@@ -191,6 +201,16 @@ We validated the password and the PDF file opened.
 
 ---
 
+### Captured Flag
+
+The captured flag is **`nw{networkwalks_persistence_jtr_270521}`**.
+
+---
+
+![1_flag2.png](/screenshots/1_flag2.png)
+
+---
+
 ### Getting the hash of PDF3
 
 We open the hash website (Online HashCrack) in a browser.
@@ -228,6 +248,16 @@ We validated the password and the PDF file opened.
 ---
 
 ![1_step_13.png](/screenshots/1_step_13.png)
+
+---
+
+### Captured Flag
+
+The captured flag is **`nw{networkwalks_flag_260821_1}`**.
+
+---
+
+![1_flag3.png](/screenshots/1_flag3.png)
 
 ---
 
@@ -348,6 +378,16 @@ We validated the entered password and the locked PDF file opened successfully.
 ---
 
 ![2_step_9.png](/screenshots/2_step_9.png)
+
+---
+
+### Captured Flag
+
+The captured flag is **`nw{networkwalks_flag1_jtr_270521_1}`**.
+
+---
+
+![2_flag1.png](/screenshots/2_flag1.png)
 
 ---
 
