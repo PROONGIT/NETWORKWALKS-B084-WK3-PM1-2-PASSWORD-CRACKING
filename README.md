@@ -403,55 +403,47 @@ https://github.com/user-attachments/assets/61498543-e3fa-4762-a4cc-ce149b9cbfc8
 
 # 💡 What I practiced
 
-Through this project, I identified suspicious activities in the network traffic, investigated to detect the attacker's IP address, the target's IP address, established a table of observations and facts that confirm the effectiveness of the attack and identified the attack type and its operational technique. I rebuilt the conversation and get the exchanged messages, including credentials and wi-fi password. I found critical hidden data, including a backup server's IP address, password and a downloaded report file. I investigated captured Voice call packets, played back the call to get critical data such as bank card number. I also identified the scammer of the VoIP call. I provided solutions to fix the security issues.
+Through this project, I practiced password hacking with different tools. I cracked hashes and found the passwords to open locked pdf files. The abilities developed in these activities can be used to hack many other kinds of passwords, including credentials and wi-fi passwords. I tested the data security regarding their confidentiality. I captured the hidden flags. I used the popular Cybersecurity tool John The Ripper (JTR) in a Windows environment. I also experienced the Networkwalks Hash Calculator and Password Cracker tools.
 
-I demonstrated Security Operations Center (SOC) Analysis skills.
+I demonstrated Ethical Hacking and Data Security skills.
 
 The most important skills I demonstrated include:
 
-### 1. Network security
+### 1. Password hacking
 
-Using Wireshark to capture and analyze network packets helps monitor the network for security purpose. We can then secure what we can see.
+I used JTR and Networkwalks tools to hack the passwords and capture the flags. 
 
-### 2. Wireshark tools
+### 2. Online HashCrack tool
 
-I have demonstrated my ability to proficiently use Wireshark tools for **network analysis**, including packet capture, display filtering using the appropriate codes and syntax, TCP Stream following, rebuilding a conversation and read what was sent, finding critical hidden data such as a backup server's IP address, password and a downloaded report file, and VoIP calls playing back.
+I used the Online HashCrack tool to find the hash value of PDF files.
 
-### 3. Packet inspection and analysis
+### 3. JTR tools
 
-I inspected and analyzed packets and detected traffic anomalies. I practiced **Packet analysis**, including **TCP Stream** following. I also practiced **Protocol analysis**, especialy the **TCP** (***Three-Way Handshake***), **SIP** and **RTP** protocols.
+I used JTR tools to get the plain text passwords from hash values. 
 
-### 4. Network sniffing
+### 4. Networkwalks tools
 
-I analyzed the network traffic, detected an unsecure chat and get in plain text credentials and a wi-fi password. I detected unsecure web activities and get a server's IP address, password and the content of a downloaded text file. I detected unsecure VoIP call activities and get critical data such as caller name, responder name and bank card details.
+I used the Networkwalks Hash Calculator tool to find the hash value of a PDF file, and the Networkwalks Password Cracker tool to get the plain text password from the hash value.
 
-### 5. Intrusion Detection/Prevention (IDS/IPS)
+### 5. Cyber Threat Intelligence 
 
-I detected the intrusion of the attacker in the network, the source address and the nature of the attack. Based on those elements, I can respond to that incident by changing the login credentials, blocking the attacker's IP address and closing all ports that are not in service. I can also implement measures to prevent future intrusions.
+By testing the strength of the passwords and the data security earlier, I demonstrated Cyber Threat Intelligence skills, including Threat Hunting and Threat Detection.
 
-### 6. Digital Forensics
+### 6. Intrusion Prevention (IPS)
 
-I established the procedure and the technique of attacks. I identified the source and the type of the attacks. So I can respond to them and implement prevention measures.
+By testing the strength of the passwords for data security and early detecting their weakness and related threats, I can enhance the security level and prevent an attacker from hacking the passwords. The PDF files might contain critical data like credentials, server details that could help an attacker to perform an intrusion.
 
-### 7. Cyber Threat Intelligence 
+### 7. Security-tool experimentation
 
-The intrusion of the attacker in the network and the port scan activity, the unsecured chat activities, the unsecured web activities, the brute force attack activities and the unsecured VoIP call activities constitute threats for the network security. By analyzing the network and detecting earlier those suspicious and/or malicious activities, I demonstrated Cyber Threat Intelligence skills, including Threat Hunting, Threat Detection and Threat Attribution.
+Using different tools such as JTR John, JTR Johnny, as well as Networkwalks Hash Calculator and Passwrd Cracker tools to hack passwords is a practical way to experiment and master security tools.
 
-### 8. Critical and Analytical thinking
+### 8. Security mindset
 
-I demonstrated Critical and Analytical thinking by putting together many observations and details to build a strong argumentation that clearly establish the effectiveness of attacks, their sources, targets and identify the attacks types.
+A security mindset in cybersecurity is a proactive, analytical way of thinking. I demonstrated that mindset throughout this project by using appropriate tools and testing the strength of the passwords that were supposed to ensure data privacy.
 
-### 9. Security-tool experimentation
+### 9. Documentation
 
-Using different command codes to filter and analyze packets and protocoles with Wireshark is a practical way to experiment and master security tools.
-
-### 10. Security mindset
-
-A security mindset in cybersecurity is a proactive, analytical way of thinking. I demonstrated that mindset throughout this project by using curiosity and setting up a proper strategy to analyze traffic, identify suspicious and malicious activities and establish their effectiveness. I proposed solutions to fix and prevent the security issues.
-
-### 11. Documentation
-
-I documented commands / codes, screenshots, tasks and solutions. That is an important part of a professional cybersecurity project.
+I documented tools, platforms links, screenshots, tasks and solutions. That is an important part of a professional cybersecurity project.
 
 ---
 
