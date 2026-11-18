@@ -95,7 +95,7 @@ We downloaded the locked pdf files from the project's Google Drive link. The dow
 
 ---
 
-### Getting the hash
+### Getting the hash of PDF1
 
 We open the hash website (Online HashCrack) in a browser.
 
@@ -107,7 +107,7 @@ We uploaded the file `/downloads/My Locked PDF1.pdf` and got its hash. We copied
 
 ---
 
-### Getting the password 
+### Getting the password of PDF1
 
 We opened Jonny and clicked on **Open password file**. We browsed to the saved *hash1.txt* file and clicked on **Open**.
 
@@ -127,7 +127,7 @@ We clicked on **Start new attack**. The PDF file password was cracked.
 
 We exported and saved the password to `/output_files/password_1.txt` and `/output_files/password_1.csv`.
 
-### Unlocking the PDF file
+### Unlocking the PDF1 file
 
 We opened the encrypted file `/downloads/My Locked PDF1.pdf` and entered the password we got **`good-luck`**.
 
@@ -142,6 +142,90 @@ We validated the password and the PDF file opened.
 ---
 
 ![1_step_7.png](/screenshots/1_step_7.png)
+
+---
+
+We repeated the **step 3** for the two other encrypted PDF files **`/downloads/My Locked PDF2.pdf`** and **`/downloads/My Locked PDF3.pdf`**.
+
+---
+
+### Getting the hash of PDF2
+
+We open the hash website (Online HashCrack) in a browser.
+
+We uploaded the file `/downloads/My Locked PDF2.pdf` and got its hash. We copied the hash and saved in the text file `/output_files/hash2.txt`. 
+
+---
+
+### Getting the password of PDF1
+
+We opened Jonny and clicked on **Open password file**. We browsed to the saved *hash2.txt* file and clicked on **Open**.
+
+We clicked on **Start new attack**. The PDF file password was cracked.
+
+---
+
+![1_step_8.png](/screenshots/1_step_8.png)
+
+---
+
+We exported and saved the password to `/output_files/password_2.txt` and `/output_files/password_2.csv`.
+
+### Unlocking the PDF2 file
+
+We opened the encrypted file `/downloads/My Locked PDF2.pdf` and entered the password we got **`password1`**.
+
+---
+
+![1_step_9.png](/screenshots/1_step_9.png)
+
+---
+
+We validated the password and the PDF file opened.
+
+---
+
+![1_step_10.png](/screenshots/1_step_10.png)
+
+---
+
+### Getting the hash of PDF3
+
+We open the hash website (Online HashCrack) in a browser.
+
+We uploaded the file `/downloads/My Locked PDF3.pdf` and got its hash. We copied the hash and saved in the text file `/output_files/hash3.txt`. 
+
+---
+
+### Getting the password of PDF3
+
+We opened Jonny and clicked on **Open password file**. We browsed to the saved *hash3.txt* file and clicked on **Open**.
+
+We clicked on **Start new attack**. The PDF file password was cracked.
+
+---
+
+![1_step_11.png](/screenshots/1_step_11.png)
+
+---
+
+We exported and saved the password to `/output_files/password_3.txt` and `/output_files/password_3.csv`.
+
+### Unlocking the PDF3 file
+
+We opened the encrypted file `/downloads/My Locked PDF3.pdf` and entered the password we got **`1qaz2wsx`**.
+
+---
+
+![1_step_12.png](/screenshots/1_step_12.png)
+
+---
+
+We validated the password and the PDF file opened.
+
+---
+
+![1_step_13.png](/screenshots/1_step_13.png)
 
 ---
 
