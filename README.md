@@ -77,7 +77,7 @@ We unzipped both downloaded JTR files.
 
 We run the setup file of Johnny and installed it. We launched Jonny and set up the John The Ripper executable.
 
-![2_step_2.png](/screenshots/2_step_2.png)
+![1_step_2.png](/screenshots/1_step_2.png)
 
 ---
 
