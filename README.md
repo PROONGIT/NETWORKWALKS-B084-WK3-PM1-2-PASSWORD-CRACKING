@@ -61,7 +61,7 @@ The PM1's objective is to crack the password of attached PDF files using JTR JOH
 
 ---
 
-## Step 1
+## 👣 Step 1
 
 We downloaded John the Ripper (JTR) JOHN and Johnny GUI from the official websites on our windows PC.
 
@@ -71,7 +71,7 @@ We downloaded John the Ripper (JTR) JOHN and Johnny GUI from the official websit
 
 ---
 
-## Step 2
+## 👣 Step 2
 
 We unzipped both downloaded JTR files.
 
@@ -89,7 +89,7 @@ The executable file **john.exe** is located in the run folder:
 
 ---
 
-## Step 3
+## 👣 Step 3
 
 We downloaded the locked pdf files from the project's Google Drive link. The downloaded files are available in **`/downloads`**.
 
@@ -161,7 +161,7 @@ We validated the password and the PDF file opened.
 
 ---
 
-## Step 1
+## 👣 Step 1
 
 
 
