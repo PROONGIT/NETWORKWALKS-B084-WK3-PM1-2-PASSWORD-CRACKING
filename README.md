@@ -91,6 +91,22 @@ The executable file **john.exe** is located in the run folder:
 
 ## Step 3
 
+We downloaded the locked pdf files from the project's Google Drive link. The downloaded files are available in **`/downloads`**.
+
+We open the hash website (Online HashCrack) in a browser.
+
+We uploaded the file `/downloads/My Locked PDF1.pdf` and got its hash. We copied the hash and saved in the text file `/output_files/hash1.txt`. 
+
+---
+
+![1_step_3.png](/screenshots/1_step_3.png)
+
+We opened Jonny and clicked on **Open password file**. We browsed to the saved *hash1.txt* file and clicked on **Open**.
+
+---
+
+![1_step_4.png](/screenshots/1_step_4.png)
+
 
 
 ---
@@ -177,7 +193,7 @@ This project is intended strictly for education purposes only.
 
 - **JTR John download:** [https://www.openwall.com/john/](https://www.openwall.com/john/)
 - **JTR Johnny download:** [https://openwall.info/wiki/john/johnny](https://openwall.info/wiki/john/johnny)
-- **Online Hash website:** [https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php](https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php)
+- **Online HashCrack:** [https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php](https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php)
 - **Networkwalks Hash Calculator:** [https://networkwalks.com/hash-calculator/](https://networkwalks.com/hash-calculator/)
 - **Networkwalks Password Cracker:** [https://networkwalks.com/password-cracker/](https://networkwalks.com/password-cracker/)
 
