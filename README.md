@@ -151,7 +151,7 @@ The captured flag is **`nw{cybersecurity_flag_captured_2608}`**.
 
 ---
 
-![1_flag1.png](/screenshots/1_flag1.png)
+![1_flag1.png](/screenshots/1_falg1.png)
 
 ---
 
